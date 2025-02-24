@@ -95,8 +95,7 @@
   <img src="https://streak-stats.demolab.com?user=damianp91&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<h1></h1>
-
+<h1 align="left">📻 Play list</h1>
 <br clear="both">
 <div align="left" style="display: flex; justify-content: space-between;">
   <div>
