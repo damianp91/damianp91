@@ -94,8 +94,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=damianp91&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=damianp91&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-<br clear="both">
 
+<h1></h1>
+
+<br clear="both">
 <div align="left" style="display: flex; justify-content: space-between;">
   <div>
     <a href="https://open.spotify.com/user/31kfnkkfvvf4u4dnaavnqpsfix7a">
@@ -107,10 +109,7 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote"  />
   </div>
 </div>
-
 <h1></h1>
-
-
 
 ###
 
