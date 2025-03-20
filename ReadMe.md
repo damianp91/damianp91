@@ -2,8 +2,6 @@
 <img align="right" src="https://profile-counter.glitch.me/damianp91/count.svg?" />
 
 
----
-
 <div align="left">
   <a href="https://www.linkedin.com/in/damian-posada-/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
@@ -66,8 +64,6 @@
   <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo" />
 </div>
 
----
-
 # 📊 GitHub Stats
 
 <div align="left">
@@ -78,16 +74,13 @@
   <img src="https://streak-stats.demolab.com?user=damianp91&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
----
-# 📻 Play List
+[//]: # (# 📻 Play List)
 
-<div align="left">
-  <a href="https://open.spotify.com/user/31kfnkkfvvf4u4dnaavnqpsfix7a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kfnkkfvvf4u4dnaavnqpsfix7a&count=7&unique=false" alt="Spotify recently played" />
-  </a>
-</div>
-
----
+[//]: # (<div align="left">)
+[//]: #  (<a href="https://open.spotify.com/user/31kfnkkfvvf4u4dnaavnqpsfix7a">)
+[//]: #    (<img src="https://spotify-recently-played-readme.vercel.app/api?user=31kfnkkfvvf4u4dnaavnqpsfix7a&count=7&unique=false" alt="Spotify recently played" />)
+[//]: #  (</a>)
+[//]: # (</div>)
 
 # ✍️ Random Dev Quote
 
