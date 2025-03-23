@@ -74,7 +74,7 @@
   <img src="https://streak-stats.demolab.com?user=damianp91&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
-[//]: # (# 📻 Play List)
+[//]: # (# 📻 Play List )
 
 [//]: # (<div align="left">)
 [//]: #  (<a href="https://open.spotify.com/user/31kfnkkfvvf4u4dnaavnqpsfix7a">)
