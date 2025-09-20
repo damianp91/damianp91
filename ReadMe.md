@@ -1,7 +1,4 @@
 
-<img align="right" src="https://profile-counter.glitch.me/damianp91/count.svg?" />
-
-
 <div align="left">
   <a href="https://www.linkedin.com/in/damian-posada-/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
@@ -16,19 +13,17 @@
 
 ---
 
-# 💫 About Me:
+# 💫 Sobre Mí::
 
-👨‍💻 **I'm currently working on**: Developing and optimizing backend systems using Java and Python, with a focus on creating efficient and scalable applications. I'm also involved in data analysis projects, leveraging SQL and BigQuery to extract insights and improve query performance.
+👨‍💻 Trabajando en: Desarrollo de sistemas backend escalables con Java y análisis de datos con SQL/BigQuery..
 
-🤝 **I'm looking to collaborate on**: Projects related to backend development, process automation, and data analysis. I'm particularly interested in working with teams that value clean code, scalability, and innovative solutions to complex problems.
+🤝 Busco colaborar en: Proyectos de desarrollo backend, automatización y análisis de datos con equipos que valoren código limpio y soluciones innovadoras.
 
-🛟 **I'm looking for help with**: Advanced topics in software architecture and distributed systems. I'm also eager to learn more about cloud-native technologies and how to integrate them into backend development workflows.
+🌱 Estoy aprendiendo: Arquitectura de software, sistemas distribuidos y tecnologías cloud (AWS/Google Cloud).
 
-📚 **I'm currently learning**: More about software architecture and design patterns to enhance my backend development skills. I'm also exploring cloud platforms like AWS and Google Cloud to expand my knowledge of deploying and managing scalable applications.
+💬 Pregúntame sobre: Backend (Java/Python/C), optimización de bases de datos, Linux o automatización.
 
-💬 **Ask me about**: Backend development in Java, Python, or C, database optimization, or Linux system administration. I'm also happy to share my experience with process automation and data analysis using SQL and BigQuery.
-
-🐟 **Fun fact**: I enjoy automating repetitive tasks in my daily life, whether it's through scripting or creating custom tools. It's both a hobby and a way to make life more efficient!
+⚡ Dato curioso: ¡Automatizo todo lo que puedo en mi día a día! Es mi hobby y forma de hacer la vida más eficiente.
 
 ---
 
@@ -65,7 +60,6 @@
 </div>
 
 
-
 # 📊 GitHub Stats
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app?username=damianp91&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
@@ -74,15 +68,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=damianp91&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=damianp91&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
-
-[//]: # (# 📻 Play List )
-
-[//]: # (<div align="left">)
-[//]: #  (<a href="https://open.spotify.com/user/31kfnkkfvvf4u4dnaavnqpsfix7a">)
-[//]: #    (<img src="https://spotify-recently-played-readme.vercel.app/api?user=31kfnkkfvvf4u4dnaavnqpsfix7a&count=7&unique=false" alt="Spotify recently played" />)
-[//]: #  (</a>)
-[//]: # (</div>)
-
 
 # ✍️ Random Dev Quote
 
