@@ -13,7 +13,7 @@
 
 ---
 
-# 💫 Sobre Mí::
+# 💫 Sobre Mí:
 
 👨‍💻 Trabajando en: Desarrollo de sistemas backend escalables con Java y análisis de datos con SQL/BigQuery..
 
