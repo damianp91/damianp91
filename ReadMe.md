@@ -78,9 +78,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=damianp91&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=damianp91&icon=2&color=13)](https://visitcount.itsvg.in)
-![](https://github-readme-stats.vercel.app/api?username=damianp91&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=damianp91&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=damianp91&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ![](https://github-profile-trophy.vercel.app/?username=damianp91&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
