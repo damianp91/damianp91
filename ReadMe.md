@@ -74,9 +74,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" />
 </div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=damianp91&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=damianp91&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-profile-trophy.vercel.app/?username=damianp91&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
