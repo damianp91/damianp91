@@ -80,7 +80,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <i>“Automatizo todo lo que puedo... ¡esa es la magia!”</i>
-</div>
